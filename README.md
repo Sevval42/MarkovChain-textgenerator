@@ -7,7 +7,7 @@ This project is a simple Markov chain text generator in C++.
 Run the program from the command line:
 
 ```
-./MarkovChainApp <input.txt> <output.txt> <length> [line length]
+./MCGenerator <input.txt> <output.txt> <length> [line length]
 ```
 
 - `<input.txt>`: Path to the input file with training data (text).
@@ -18,7 +18,7 @@ Run the program from the command line:
 You can build the project with `make`.
 
 
-Example text of "Die Verwandlung" bei Franz Kafka:
+Example text of "Die Verwandlung" by Franz Kafka:
 
 >sah aus, als strecke er sich leicht, wohl infolge der Gegenwart der Mutter als 
 auch Gregor, man nahm das Geld beisammen, um die Familie ein, höchstens zwei Jahre 
